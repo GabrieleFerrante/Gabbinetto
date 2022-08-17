@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Gabbinetto
-- 👀 I’m interested in programming, computers and everything related to it!
-- 🌱 I’m currently learning Python
+I'm an Italian student that loves programming and sometimes I do something here. I'm know Python at a pretty intermediate level and I love the Godot Engine.
 
 <!---
 Gabbinetto/Gabbinetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
